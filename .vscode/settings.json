@@ -1,0 +1,73 @@
+// {
+//   "javascript.updateImportsOnFileMove.enabled": "always",
+//   "javascript.preferences.importModuleSpecifier": "non-relative",
+//   "workbench.colorCustomizations": {
+//     "titleBar.activeForeground": "#000",
+//     "titleBar.inactiveForeground": "#000000CC",
+//     "titleBar.activeBackground": "#ffc600CC",
+//     "titleBar.inactiveBackground": "#ffc600CC"
+//   },
+//   "oneDarkPro.bold": true,
+//   "oneDarkPro.vivid": true,
+//   "path-intellisense.autoSlashAfterDirectory": true,
+//   "path-intellisense.extensionOnImport": true,
+//   "prettier.tabWidth": 5,
+//   "prettier.useTabs": true,
+//   "editor.fontSize": 15
+// }
+
+{
+	"workbench.colorTheme": "Cobalt2",
+	"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+
+	"editor.lineHeight": 25,
+	"editor.letterSpacing": 0.5,
+
+	"files.trimTrailingWhitespace": true,
+	"editor.fontWeight": "400",
+	"prettier.eslintIntegration": true,
+	"editor.cursorStyle": "line",
+
+	"window.zoomLevel": 0,
+
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+
+	"editor.autoIndent": "full",
+	// "editor.cursorBlinking": "solid",
+	"editor.cursorSmoothCaretAnimation": true,
+
+	"editor.fontSize": 16,
+
+	"editor.fontLigatures": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+
+	"editor.minimap.enabled": true,
+	// "editor.multiCursorModifier": "ctrlCmd",
+	"editor.suggestSelection": "first",
+	"editor.tabCompletion": "on",
+	"editor.tabSize": 3,
+	"editor.wordWrap": "on",
+	// "files.autoSave": "afterDelay",
+	// "files.autoSaveDelay": 1000,
+	"search.showLineNumbers": true,
+	"workbench.iconTheme": "material-icon-theme",
+
+	"zenMode.centerLayout": false,
+	"terminal.integrated.fontFamily": "monospace",
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorWidth": 4,
+	"explorer.confirmDelete": false,
+	"workbench.colorCustomizations": {
+		"titleBar.activeForeground": "#000",
+		"titleBar.inactiveForeground": "#000000CC",
+		"titleBar.activeBackground": "#ffc600CC",
+		"titleBar.inactiveBackground": "#ffc600CC"
+	}
+}
